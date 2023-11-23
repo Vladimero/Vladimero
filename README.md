@@ -2,7 +2,7 @@
 <h3 align="center">Full stack web developer & IT enthusiast</h3>
 <h4 align="center">'originally from Berlin, now rooted in Vienna'</h4>
 
-<p align="center">I started my programming journey because I realized it's my true passion, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!</p>
+<p align="center">I embarked on my programming journey when I discovered it as my genuine passion, a realm that captivates me at every opportunity. I take immense joy in tackling diverse coding challenges and crafting innovative projects. The dynamic landscape of programming serves as a constant source of inspiration, fuelling my thirst for continuous learning and growth!</p>
 
 <hr />
 
