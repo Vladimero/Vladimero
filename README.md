@@ -2,13 +2,14 @@
 <h3 align="center">Full stack web developer & IT enthusiast</h3>
 <h4 align="center">'originally from Berlin, now rooted in Vienna'</h4>
 
-<p>I started my programming journey because I realized it's my true passion, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!</p>
+<p align="center">I started my programming journey because I realized it's my true passion, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!</p>
 
 <h3 align="center">Feel free to contact me!<h3>
 <p align="center">
 <a href="https://twitter.com/wov4yaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wov4yaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vladimir vorozbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladimir vorozbit" height="30" width="40" /></a>
 </p>
+
 
 <p>🌱 I’m a graduate from the UpLeveled bootcamp</p>
 
