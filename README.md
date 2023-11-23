@@ -1,9 +1,8 @@
-<h2 align="center">Hi 👋, I'm Vladimir</h2>
+<h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">Full stack web developer & IT enthusiast</h3>
 <h4 align="center">'originally from Berlin, now rooted in Vienna'</h4>
-
-<hr />
-
+<br />
+<br />
 <p align="center">I started my programming journey because I realized it's my true passion, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!</p>
 
 <hr />
