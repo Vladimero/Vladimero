@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
+<h2 align="center">Hi 👋, I'm Vladimir</h2>
 <h3 align="center">Full stack web developer & IT enthusiast</h3>
 <h4 align="center">'originally from Berlin, now rooted in Vienna'</h4>
+
+<hr />
 
 <p align="center">I started my programming journey because I realized it's my true passion, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!</p>
 
 <hr />
 
-<p>🌱 I’m a graduate from the UpLeveled bootcamp</p>
+<p>🌱 I’m a graduate from the UpLeveled bootcamp!</p>
 
-<p>🔭 I’m currently working on my <a href="https://github.com/Vladimero/eapa-final-project">final project</a> for UpLeveled, a Web Application, called EAPA, to report any kind of pollution in Austria</p>
+<p>🔭 I’m currently working on my <a href="https://github.com/Vladimero/eapa-final-project">final project</a> for UpLeveled, a Web Application, called EAPA, to report any kind of pollution in Austria!</p>
 
-<p>🔧 I'm currently developing with JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL, but I am always learning new technologies and growing my tech stack.</p>
-<p>📝 I’m looking forward to learn Python</p>
+<p>🔧 I'm currently developing with JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL, but I am always learning new technologies and growing my tech stack!</p>
+<p>📝 I’m looking forward to learn Python!</p>
 
 <p>👨‍💻 All of <a href="https://github.com/Vladimero?tab=repositories&type=source">my projects</a> are available in my profile.</p>
 
